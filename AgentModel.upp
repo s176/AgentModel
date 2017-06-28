@@ -1,0 +1,12 @@
+optimize_speed;
+
+uses
+	CtrlLib,
+	GLCtrl;
+
+file
+	main.cpp;
+
+mainconfig
+	"" = "GUI MT";
+
